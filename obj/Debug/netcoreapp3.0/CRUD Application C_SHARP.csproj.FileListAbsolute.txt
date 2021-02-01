@@ -1,0 +1,26 @@
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\CRUD Application C_SHARP.exe
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\CRUD Application C_SHARP.deps.json
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\CRUD Application C_SHARP.runtimeconfig.json
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\CRUD Application C_SHARP.runtimeconfig.dev.json
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\CRUD Application C_SHARP.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\CRUD Application C_SHARP.pdb
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\MySql.Data.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\Google.Protobuf.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\Zstandard.Net.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\BouncyCastle.Crypto.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\Ubiety.Dns.Core.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\Renci.SshNet.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\K4os.Compression.LZ4.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\K4os.Hash.xxHash.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\bin\Debug\netcoreapp3.0\MySql.Data.xml
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.csprojAssemblyReference.cache
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD_Application_C_SHARP.Form1.resources
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.csproj.GenerateResource.cache
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.AssemblyInfoInputs.cache
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.AssemblyInfo.cs
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.csproj.CoreCompileInputs.cache
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.csproj.CopyComplete
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.dll
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.pdb
+C:\Users\Stratos\Desktop\CRUD Application C#\CRUD Application C_SHARP\obj\Debug\netcoreapp3.0\CRUD Application C_SHARP.genruntimeconfig.cache
